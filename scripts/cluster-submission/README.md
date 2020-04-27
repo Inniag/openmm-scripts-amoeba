@@ -1,6 +1,6 @@
 # Example Scripts for Cluster Submission
 
-These scrips illustrate how to submit polarisable OpenMM jobs to a queueing system. The were tried and tested on the UK's [JADE](https://www.jade.ac.uk/) cluster, but should be straightforward to adapt to any cluster using the Slurm workload manager.
+These scrips illustrate how to submit polarisable OpenMM jobs to an HPC cluster's queueing system. The were tried and tested on the UK's [JADE](https://www.jade.ac.uk/) cluster, but should be straightforward to adapt to any cluster using the Slurm workload manager.
 
 * `submit_openmm_jade_1GPU.sh` submits a new job starting from fresh input files
 * `extend_openmm_jade_1GPU.sh` submits a job that extends a previous simulation
