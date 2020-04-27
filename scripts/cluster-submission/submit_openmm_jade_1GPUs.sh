@@ -14,14 +14,13 @@ module load cuda/8.0
 module load python3/anaconda
 source activate openmm-7-1-1
 
-
 echo "CUDA visible devices: " $CUDA_VISIBLE_DEVICES
 nvidia-smi > smi
 echo "Starting MD run: $(date)"
 
 # run simulation
 python simulate_amoeba.py \
-    -pdb atomistic_system_openmm.pdb \
+    -pdb system.pdb \
     -ff amoeba2013.xml dopc.xml \
     -outname production \
     -polarisation extrapolated \
