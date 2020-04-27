@@ -1,0 +1,4 @@
+- repo: https://gitlab.com/pycqa/flake8
+  rev: stable
+  hooks:
+  - id: flake8
