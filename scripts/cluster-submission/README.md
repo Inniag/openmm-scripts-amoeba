@@ -5,4 +5,4 @@ These scrips illustrate how to submit polarisable OpenMM jobs to an HPC cluster'
 * `submit_openmm_jade_1GPU.sh` submits a new job starting from fresh input files
 * `extend_openmm_jade_1GPU.sh` submits a job that extends a previous simulation
 
-When submitting jobs, make sure that all required input files (notably the input geometry file `system.pdb` and all necessary force field files, e.g. `amoeba2013.xml` `dopc.xml`) are present in the working directory on the cluster.
+When submitting jobs, make sure that all required input files (notably the input geometry file `system.pdb` and all necessary force field files, e.g. `amoeba2013.xml`, `dopc.xml`, etc.) are present in the working directory on the cluster.
