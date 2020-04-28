@@ -6,4 +6,4 @@
 
 Type `./scriptname -h` to see a help on which input parameters need to be provided.
 
-For examples of how to run simulations with these scripts on a remote cluster see [blah](../../cluster-submission/README.md).
+For examples of how to run simulations with these scripts on a remote cluster see [blah](../../scripts/cluster-submission/README.md).
