@@ -25,3 +25,8 @@ conda activate openmm-scripts-amoeba
 ```
 
 Note that this will install OpenMM version 7.1.1 as used in the JACS paper cited above, which only supports CUDA version 8.0. Newer versions of OpenMM support different CUDA versions and you might want to adapt the `requirements.yml` file accordingly if you want to use a more recent CUDA version.
+
+
+## Usage
+
+See the different subdirectories of `scripts` for instructions on how to use the code.
