@@ -1,4 +1,4 @@
-Please cite *G. Klesse, S. Rao, S. J. Tucker, and M. S. P. Sansom. "Induced polarization in MD simulations of the 5HT3 receptor channel." bioRxiv, 2020. Accepted for publication in the Journal of the American Chemical Society.* if you use these scripts in your academic work.
+Please cite *G. Klesse, S. Rao, S. J. Tucker, and M. S. P. Sansom. "Induced polarization in MD simulations of the 5HT3 receptor channel." bioRxiv, 2020. Accepted for publication in the Journal of the American Chemical Society.* if you make use of these scripts in your academic work.
 
 # OpenMM Scripts for AMOEBA Force Field MD Simulations
 
