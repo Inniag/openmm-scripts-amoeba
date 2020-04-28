@@ -1,4 +1,4 @@
-# Preprocessing Scripts for OpenMM AMOEBA Simulations
+# Pre-processing Scripts for OpenMM AMOEBA Simulations
 
 This directory provides a number of scripts helpful in setting up AMOEBA force field simulations with OpenMM.
 
