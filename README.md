@@ -13,3 +13,15 @@ Some interesting features of this code that extend the basic OpenMM functionalit
 * job submission scripts for running simulations on [SLURM](https://slurm.schedmd.com/documentation.html) clusters and support for restarting and extending simulations that exceed queuing system time limits
 
 The code is structured into self-contained Python scripts. This is intended to enable easy portability to support the common scientific workflow of preparing simulations on a local workstation, executing them on a remote HPC cluster, and analysing data back on the workstation.
+
+
+## Dependencies
+
+The scripts in this repository depend on both OpenMM and MDAnalysis as well as on a number of underlying packages from the Python scientific stack. These dependencies are most easily installed using conda:
+
+```
+conda env create -f requirements.yml
+conda activate openmm-scripts-amoeba
+```
+
+Note that this will install OpenMM version 7.1.1 as used in the JACS paper cited above, which only supports CUDA version 8.0. Newer versions of OpenMM support different CUDA versions and you might want to adapt the `requirements.yml` file accordingly if you want to use a more recent CUDA version.
