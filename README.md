@@ -8,7 +8,7 @@ Some interesting features of this code that extend the basic OpenMM functionalit
 
 * guessing bonds in nonstandard residues which would overflow the CONECT record index in PDB files, a prerequisite for lipid bilayer simulation
 * converting systems equilibrated in Gromacs to valid OpenMM input and converting OpenMM DCD trajectories to XTC format enabling further analysis with [Gromacs](https://gitlab.com/gromacs/gromacs)' tools
-* lipid parameters for the AMOEBA force field and a script for converting force field parameter files in Tinker's PRM format to the XML format used by OpenMM
+* lipid parameters for the AMOEBA force field and a script for converting force field parameter files in [Tinker](https://dasher.wustl.edu/tinker/)'s PRM format to the XML format used by OpenMM
 * performing umbrella sampling simulations of ions moving along the permeation pathway of an ion channel with output compatible with the Grossfield lab's [WHAM](http://membrane.urmc.rochester.edu/?page_id=126) tool
 * job submission scripts for running simulations on [SLURM](https://slurm.schedmd.com/documentation.html) clusters and support for restarting and extending simulations that exceed queuing system time limits
 
