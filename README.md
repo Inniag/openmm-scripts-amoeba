@@ -4,7 +4,7 @@ Please cite *G. Klesse, S. Rao, S. J. Tucker, and M. S. P. Sansom. "Induced pola
 
 This repository provides scripts for running GPU-accelerated molecular dynamics simulations employing the polarisable AMOEBA force field. It makes use of the powerful OpenMM and MDAnalysis libraries. The code is geared towards the specific use case of simulating ion channels, but should also be useful for other membrane proteins as well as soluble biomolecules.
 
-Some interesting features of this code include:
+Some interesting features of this code that extend the basic OpenMM functionality include:
 
 * guessing bonds in nonstandard residues which would overflow the CONECT record index in PDB files, a prerequisite for lipid bilayer simulation
 * converting systems equilibrated in Gromacs to valid OpenMM input and converting OpenMM DCD trajectories to XTC format for analysis with Gromacs tools
