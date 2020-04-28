@@ -1,0 +1,745 @@
+<?xml version="1.0" ?>
+<ForceField>
+   <Info>
+      <Source>dopc.prm</Source>
+   </Info>
+   <AtomTypes>
+      <Type class="100031" element="N" mass="14.007" name="100031"/>
+      <Type class="100032" element="C" mass="12.011" name="100032"/>
+      <Type class="100033" element="H" mass="1.008" name="100033"/>
+      <Type class="100032" element="C" mass="12.011" name="100034"/>
+      <Type class="100033" element="H" mass="1.008" name="100035"/>
+      <Type class="100032" element="C" mass="12.011" name="100036"/>
+      <Type class="100033" element="H" mass="1.008" name="100037"/>
+      <Type class="100034" element="C" mass="12.011" name="100038"/>
+      <Type class="100035" element="H" mass="1.008" name="100039"/>
+      <Type class="100036" element="C" mass="12.011" name="1000310"/>
+      <Type class="100037" element="H" mass="1.008" name="1000311"/>
+      <Type class="100038" element="O" mass="15.999" name="1000312"/>
+      <Type class="100039" element="P" mass="30.974" name="1000313"/>
+      <Type class="1000310" element="O" mass="15.999" name="1000314"/>
+      <Type class="1000310" element="O" mass="15.999" name="1000315"/>
+      <Type class="100038" element="O" mass="15.999" name="1000316"/>
+      <Type class="100036" element="C" mass="12.011" name="1000317"/>
+      <Type class="100037" element="H" mass="1.008" name="1000318"/>
+      <Type class="1000311" element="C" mass="12.011" name="1000319"/>
+      <Type class="1000312" element="H" mass="1.008" name="1000320"/>
+      <Type class="1000313" element="C" mass="12.011" name="1000321"/>
+      <Type class="1000314" element="H" mass="1.008" name="1000322"/>
+      <Type class="1000315" element="O" mass="15.999" name="1000323"/>
+      <Type class="1000322" element="O" mass="15.999" name="1000324"/>
+      <Type class="1000316" element="O" mass="15.999" name="1000325"/>
+      <Type class="1000317" element="C" mass="12.011" name="1000326"/>
+      <Type class="1000318" element="C" mass="12.011" name="1000327"/>
+      <Type class="1000319" element="H" mass="1.008" name="1000328"/>
+      <Type class="1000316" element="O" mass="15.999" name="1000329"/>
+      <Type class="1000317" element="C" mass="12.011" name="1000330"/>
+      <Type class="1000318" element="C" mass="12.011" name="1000331"/>
+      <Type class="1000319" element="H" mass="1.008" name="1000332"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000333"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000334"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000335"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000336"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000337"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000338"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000339"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000340"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000341"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000342"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000343"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000344"/>
+      <Type class="1000320" element="C" mass="12.011" name="1000345"/>
+      <Type class="1000321" element="H" mass="1.008" name="1000346"/>
+      <Type class="1000320" element="C" mass="12.011" name="1000347"/>
+      <Type class="1000321" element="H" mass="1.008" name="1000348"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000349"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000350"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000351"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000352"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000353"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000354"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000355"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000356"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000357"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000358"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000359"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000360"/>
+      <Type class="1000323" element="C" mass="12.011" name="1000361"/>
+      <Type class="1000324" element="H" mass="1.008" name="1000362"/>
+      <Type class="1000325" element="C" mass="12.011" name="1000363"/>
+      <Type class="1000326" element="H" mass="1.008" name="1000364"/>
+   </AtomTypes>
+   <Residues>
+      <Residue name="DOPC">
+         <Atom name="N" type="100031"/>
+         <Atom name="C12" type="100038"/>
+         <Atom name="H12A" type="100039"/>
+         <Atom name="H12B" type="100039"/>
+         <Atom name="C13" type="100032"/>
+         <Atom name="H13A" type="100033"/>
+         <Atom name="H13B" type="100033"/>
+         <Atom name="H13C" type="100033"/>
+         <Atom name="C14" type="100034"/>
+         <Atom name="H14A" type="100035"/>
+         <Atom name="H14B" type="100035"/>
+         <Atom name="H14C" type="100035"/>
+         <Atom name="C15" type="100036"/>
+         <Atom name="H15A" type="100037"/>
+         <Atom name="H15B" type="100037"/>
+         <Atom name="H15C" type="100037"/>
+         <Atom name="C11" type="1000310"/>
+         <Atom name="H11A" type="1000311"/>
+         <Atom name="H11B" type="1000311"/>
+         <Atom name="P" type="1000313"/>
+         <Atom name="O13" type="1000314"/>
+         <Atom name="O14" type="1000315"/>
+         <Atom name="O12" type="1000312"/>
+         <Atom name="O11" type="1000316"/>
+         <Atom name="C1" type="1000317"/>
+         <Atom name="HA" type="1000318"/>
+         <Atom name="HB" type="1000318"/>
+         <Atom name="C2" type="1000319"/>
+         <Atom name="HS" type="1000320"/>
+         <Atom name="O21" type="1000324"/>
+         <Atom name="C21" type="1000330"/>
+         <Atom name="O22" type="1000329"/>
+         <Atom name="C22" type="1000331"/>
+         <Atom name="H2R" type="1000332"/>
+         <Atom name="H2S" type="1000332"/>
+         <Atom name="C3" type="1000321"/>
+         <Atom name="HX" type="1000322"/>
+         <Atom name="HY" type="1000322"/>
+         <Atom name="O31" type="1000323"/>
+         <Atom name="C31" type="1000326"/>
+         <Atom name="O32" type="1000325"/>
+         <Atom name="C32" type="1000327"/>
+         <Atom name="H2X" type="1000328"/>
+         <Atom name="H2Y" type="1000328"/>
+         <Atom name="C23" type="1000333"/>
+         <Atom name="H3R" type="1000334"/>
+         <Atom name="H3S" type="1000334"/>
+         <Atom name="C24" type="1000335"/>
+         <Atom name="H4R" type="1000336"/>
+         <Atom name="H4S" type="1000336"/>
+         <Atom name="C25" type="1000337"/>
+         <Atom name="H5R" type="1000338"/>
+         <Atom name="H5S" type="1000338"/>
+         <Atom name="C26" type="1000339"/>
+         <Atom name="H6R" type="1000340"/>
+         <Atom name="H6S" type="1000340"/>
+         <Atom name="C27" type="1000341"/>
+         <Atom name="H7R" type="1000342"/>
+         <Atom name="H7S" type="1000342"/>
+         <Atom name="C28" type="1000343"/>
+         <Atom name="H8R" type="1000344"/>
+         <Atom name="H8S" type="1000344"/>
+         <Atom name="C29" type="1000345"/>
+         <Atom name="H9R" type="1000346"/>
+         <Atom name="C210" type="1000347"/>
+         <Atom name="H10R" type="1000348"/>
+         <Atom name="C211" type="1000349"/>
+         <Atom name="H11R" type="1000350"/>
+         <Atom name="H11S" type="1000350"/>
+         <Atom name="C212" type="1000351"/>
+         <Atom name="H12R" type="1000352"/>
+         <Atom name="H12S" type="1000352"/>
+         <Atom name="C213" type="1000353"/>
+         <Atom name="H13R" type="1000354"/>
+         <Atom name="H13S" type="1000354"/>
+         <Atom name="C214" type="1000355"/>
+         <Atom name="H14R" type="1000356"/>
+         <Atom name="H14S" type="1000356"/>
+         <Atom name="C215" type="1000357"/>
+         <Atom name="H15R" type="1000358"/>
+         <Atom name="H15S" type="1000358"/>
+         <Atom name="C216" type="1000359"/>
+         <Atom name="H16R" type="1000360"/>
+         <Atom name="H16S" type="1000360"/>
+         <Atom name="C217" type="1000361"/>
+         <Atom name="H17R" type="1000362"/>
+         <Atom name="H17S" type="1000362"/>
+         <Atom name="C218" type="1000363"/>
+         <Atom name="H18R" type="1000364"/>
+         <Atom name="H18S" type="1000364"/>
+         <Atom name="H18T" type="1000364"/>
+         <Atom name="C33" type="1000333"/>
+         <Atom name="H3X" type="1000334"/>
+         <Atom name="H3Y" type="1000334"/>
+         <Atom name="C34" type="1000335"/>
+         <Atom name="H4X" type="1000336"/>
+         <Atom name="H4Y" type="1000336"/>
+         <Atom name="C35" type="1000337"/>
+         <Atom name="H5X" type="1000338"/>
+         <Atom name="H5Y" type="1000338"/>
+         <Atom name="C36" type="1000339"/>
+         <Atom name="H6X" type="1000340"/>
+         <Atom name="H6Y" type="1000340"/>
+         <Atom name="C37" type="1000341"/>
+         <Atom name="H7X" type="1000342"/>
+         <Atom name="H7Y" type="1000342"/>
+         <Atom name="C38" type="1000343"/>
+         <Atom name="H8X" type="1000344"/>
+         <Atom name="H8Y" type="1000344"/>
+         <Atom name="C39" type="1000345"/>
+         <Atom name="H9X" type="1000346"/>
+         <Atom name="C310" type="1000347"/>
+         <Atom name="H10X" type="1000348"/>
+         <Atom name="C311" type="1000349"/>
+         <Atom name="H11X" type="1000350"/>
+         <Atom name="H11Y" type="1000350"/>
+         <Atom name="C312" type="1000351"/>
+         <Atom name="H12X" type="1000352"/>
+         <Atom name="H12Y" type="1000352"/>
+         <Atom name="C313" type="1000353"/>
+         <Atom name="H13X" type="1000354"/>
+         <Atom name="H13Y" type="1000354"/>
+         <Atom name="C314" type="1000355"/>
+         <Atom name="H14X" type="1000356"/>
+         <Atom name="H14Y" type="1000356"/>
+         <Atom name="C315" type="1000357"/>
+         <Atom name="H15X" type="1000358"/>
+         <Atom name="H15Y" type="1000358"/>
+         <Atom name="C316" type="1000359"/>
+         <Atom name="H16X" type="1000360"/>
+         <Atom name="H16Y" type="1000360"/>
+         <Atom name="C317" type="1000361"/>
+         <Atom name="H17X" type="1000362"/>
+         <Atom name="H17Y" type="1000362"/>
+         <Atom name="C318" type="1000363"/>
+         <Atom name="H18X" type="1000364"/>
+         <Atom name="H18Y" type="1000364"/>
+         <Atom name="H18Z" type="1000364"/>
+         <Bond from="0" to="1"/>
+         <Bond from="0" to="4"/>
+         <Bond from="0" to="8"/>
+         <Bond from="0" to="12"/>
+         <Bond from="1" to="2"/>
+         <Bond from="1" to="3"/>
+         <Bond from="1" to="16"/>
+         <Bond from="4" to="5"/>
+         <Bond from="4" to="6"/>
+         <Bond from="4" to="7"/>
+         <Bond from="8" to="9"/>
+         <Bond from="8" to="10"/>
+         <Bond from="8" to="11"/>
+         <Bond from="12" to="13"/>
+         <Bond from="12" to="14"/>
+         <Bond from="12" to="15"/>
+         <Bond from="16" to="17"/>
+         <Bond from="16" to="18"/>
+         <Bond from="16" to="22"/>
+         <Bond from="19" to="20"/>
+         <Bond from="19" to="21"/>
+         <Bond from="19" to="22"/>
+         <Bond from="19" to="23"/>
+         <Bond from="23" to="24"/>
+         <Bond from="24" to="25"/>
+         <Bond from="24" to="26"/>
+         <Bond from="24" to="27"/>
+         <Bond from="27" to="28"/>
+         <Bond from="27" to="29"/>
+         <Bond from="27" to="35"/>
+         <Bond from="29" to="30"/>
+         <Bond from="30" to="31"/>
+         <Bond from="30" to="32"/>
+         <Bond from="32" to="33"/>
+         <Bond from="32" to="34"/>
+         <Bond from="32" to="44"/>
+         <Bond from="35" to="36"/>
+         <Bond from="35" to="37"/>
+         <Bond from="35" to="38"/>
+         <Bond from="38" to="39"/>
+         <Bond from="39" to="40"/>
+         <Bond from="39" to="41"/>
+         <Bond from="41" to="42"/>
+         <Bond from="41" to="43"/>
+         <Bond from="41" to="91"/>
+         <Bond from="44" to="45"/>
+         <Bond from="44" to="46"/>
+         <Bond from="44" to="47"/>
+         <Bond from="47" to="48"/>
+         <Bond from="47" to="49"/>
+         <Bond from="47" to="50"/>
+         <Bond from="50" to="51"/>
+         <Bond from="50" to="52"/>
+         <Bond from="50" to="53"/>
+         <Bond from="53" to="54"/>
+         <Bond from="53" to="55"/>
+         <Bond from="53" to="56"/>
+         <Bond from="56" to="57"/>
+         <Bond from="56" to="58"/>
+         <Bond from="56" to="59"/>
+         <Bond from="59" to="60"/>
+         <Bond from="59" to="61"/>
+         <Bond from="59" to="62"/>
+         <Bond from="62" to="63"/>
+         <Bond from="62" to="64"/>
+         <Bond from="64" to="65"/>
+         <Bond from="64" to="66"/>
+         <Bond from="66" to="67"/>
+         <Bond from="66" to="68"/>
+         <Bond from="66" to="69"/>
+         <Bond from="69" to="70"/>
+         <Bond from="69" to="71"/>
+         <Bond from="69" to="72"/>
+         <Bond from="72" to="73"/>
+         <Bond from="72" to="74"/>
+         <Bond from="72" to="75"/>
+         <Bond from="75" to="76"/>
+         <Bond from="75" to="77"/>
+         <Bond from="75" to="78"/>
+         <Bond from="78" to="79"/>
+         <Bond from="78" to="80"/>
+         <Bond from="78" to="81"/>
+         <Bond from="81" to="82"/>
+         <Bond from="81" to="83"/>
+         <Bond from="81" to="84"/>
+         <Bond from="84" to="85"/>
+         <Bond from="84" to="86"/>
+         <Bond from="84" to="87"/>
+         <Bond from="87" to="88"/>
+         <Bond from="87" to="89"/>
+         <Bond from="87" to="90"/>
+         <Bond from="91" to="92"/>
+         <Bond from="91" to="93"/>
+         <Bond from="91" to="94"/>
+         <Bond from="94" to="95"/>
+         <Bond from="94" to="96"/>
+         <Bond from="94" to="97"/>
+         <Bond from="97" to="98"/>
+         <Bond from="97" to="99"/>
+         <Bond from="97" to="100"/>
+         <Bond from="100" to="101"/>
+         <Bond from="100" to="102"/>
+         <Bond from="100" to="103"/>
+         <Bond from="103" to="104"/>
+         <Bond from="103" to="105"/>
+         <Bond from="103" to="106"/>
+         <Bond from="106" to="107"/>
+         <Bond from="106" to="108"/>
+         <Bond from="106" to="109"/>
+         <Bond from="109" to="110"/>
+         <Bond from="109" to="111"/>
+         <Bond from="111" to="112"/>
+         <Bond from="111" to="113"/>
+         <Bond from="113" to="114"/>
+         <Bond from="113" to="115"/>
+         <Bond from="113" to="116"/>
+         <Bond from="116" to="117"/>
+         <Bond from="116" to="118"/>
+         <Bond from="116" to="119"/>
+         <Bond from="119" to="120"/>
+         <Bond from="119" to="121"/>
+         <Bond from="119" to="122"/>
+         <Bond from="122" to="123"/>
+         <Bond from="122" to="124"/>
+         <Bond from="122" to="125"/>
+         <Bond from="125" to="126"/>
+         <Bond from="125" to="127"/>
+         <Bond from="125" to="128"/>
+         <Bond from="128" to="129"/>
+         <Bond from="128" to="130"/>
+         <Bond from="128" to="131"/>
+         <Bond from="131" to="132"/>
+         <Bond from="131" to="133"/>
+         <Bond from="131" to="134"/>
+         <Bond from="134" to="135"/>
+         <Bond from="134" to="136"/>
+         <Bond from="134" to="137"/>
+      </Residue>
+   </Residues>
+   <AmoebaVdwForce epsilonrule="HHG" radiusrule="CUBIC-MEAN" radiussize="DIAMETER" radiustype="R-MIN" type="BUFFERED-14-7" vdw-12-scale="0.0" vdw-13-scale="0.0" vdw-14-scale="1.0" vdw-15-scale="1.0">
+      <Vdw class="100031" epsilon="0.4171448" reduction="1.0" sigma="0.35245000000000004"/>
+      <Vdw class="100032" epsilon="0.4439224" reduction="1.0" sigma="0.4011"/>
+      <Vdw class="100033" epsilon="0.10543680000000001" reduction="0.920" sigma="0.3108"/>
+      <Vdw class="100034" epsilon="0.4439224" reduction="1.0" sigma="0.3629"/>
+      <Vdw class="100035" epsilon="0.0966504" reduction="0.920" sigma="0.2812"/>
+      <Vdw class="100036" epsilon="0.4439224" reduction="1.0" sigma="0.3629"/>
+      <Vdw class="100037" epsilon="0.09539520000000001" reduction="0.920" sigma="0.2831"/>
+      <Vdw class="100038" epsilon="0.437228" reduction="1.0" sigma="0.35753"/>
+      <Vdw class="100039" epsilon="1.5505904" reduction="1.0" sigma="0.46725000000000005"/>
+      <Vdw class="1000310" epsilon="0.4920384" reduction="1.0" sigma="0.34485000000000005"/>
+      <Vdw class="1000311" epsilon="0.40124560000000004" reduction="1.0" sigma="0.38325000000000004"/>
+      <Vdw class="1000312" epsilon="0.09539520000000001" reduction="0.940" sigma="0.3129"/>
+      <Vdw class="1000313" epsilon="0.40124560000000004" reduction="1.0" sigma="0.4011"/>
+      <Vdw class="1000314" epsilon="0.09539520000000001" reduction="0.940" sigma="0.3129"/>
+      <Vdw class="1000315" epsilon="0.437228" reduction="1.0" sigma="0.32347000000000004"/>
+      <Vdw class="1000316" epsilon="0.4920384" reduction="1.0" sigma="0.34494"/>
+      <Vdw class="1000317" epsilon="0.4656792" reduction="1.0" sigma="0.3629"/>
+      <Vdw class="1000318" epsilon="0.4439224" reduction="1.0" sigma="0.3629"/>
+      <Vdw class="1000319" epsilon="0.10543680000000001" reduction="0.940" sigma="0.2831"/>
+      <Vdw class="1000320" epsilon="0.42258400000000007" reduction="1.0" sigma="0.365"/>
+      <Vdw class="1000321" epsilon="0.108784" reduction="0.920" sigma="0.25830000000000003"/>
+      <Vdw class="1000322" epsilon="0.483252" reduction="1.0" sigma="0.32908000000000004"/>
+      <Vdw class="1000323" epsilon="0.42258400000000007" reduction="1.0" sigma="0.382"/>
+      <Vdw class="1000324" epsilon="0.100416" reduction="0.940" sigma="0.298"/>
+      <Vdw class="1000325" epsilon="0.42258400000000007" reduction="1.0" sigma="0.382"/>
+      <Vdw class="1000326" epsilon="0.100416" reduction="0.920" sigma="0.296"/>
+   </AmoebaVdwForce>
+   <AmoebaBondForce bond-cubic="-25.5" bond-quartic="379.3125">
+      <Bond class1="100031" class2="100034" k="159535.91999999998" length="0.15224000000000001"/>
+      <Bond class1="100032" class2="100036" k="135143.19999999998" length="0.15283000000000002"/>
+      <Bond class1="1000323" class2="1000325" k="135143.19999999998" length="0.15247"/>
+      <Bond class1="100034" class2="100035" k="142799.91999999998" length="0.10738000000000002"/>
+      <Bond class1="100031" class2="100032" k="159535.91999999998" length="0.14977000000000001"/>
+      <Bond class1="100032" class2="100033" k="143218.32" length="0.10736000000000001"/>
+      <Bond class1="1000325" class2="1000326" k="142674.4" length="0.11020000000000002"/>
+      <Bond class1="100034" class2="100036" k="189535.19999999998" length="0.15478000000000003"/>
+      <Bond class1="100036" class2="100038" k="194597.84" length="0.1373"/>
+      <Bond class1="100036" class2="1000311" k="135143.19999999998" length="0.15226"/>
+      <Bond class1="100038" class2="100039" k="188280.0" length="0.16292"/>
+      <Bond class1="100039" class2="1000310" k="324218.16" length="0.14471"/>
+      <Bond class1="100036" class2="100036" k="189535.19999999998" length="0.15297000000000002"/>
+      <Bond class1="1000323" class2="1000323" k="135143.19999999998" length="0.15247"/>
+      <Bond class1="1000311" class2="1000313" k="135143.19999999998" length="0.15145"/>
+      <Bond class1="1000313" class2="1000315" k="194597.84" length="0.14109000000000002"/>
+      <Bond class1="100036" class2="100037" k="142758.08" length="0.10809"/>
+      <Bond class1="1000323" class2="1000324" k="142674.4" length="0.11120000000000002"/>
+      <Bond class1="1000311" class2="1000322" k="194597.84" length="0.14266"/>
+      <Bond class1="1000311" class2="1000312" k="142674.4" length="0.10782000000000001"/>
+      <Bond class1="1000318" class2="1000319" k="142674.4" length="0.10868"/>
+      <Bond class1="1000315" class2="1000317" k="194597.84" length="0.14216"/>
+      <Bond class1="1000316" class2="1000317" k="251793.11999999997" length="0.11796000000000001"/>
+      <Bond class1="1000317" class2="1000318" k="144473.52" length="0.15124"/>
+      <Bond class1="1000323" class2="1000320" k="135143.19999999998" length="0.15053000000000002"/>
+      <Bond class1="1000320" class2="1000320" k="284512.0" length="0.13201000000000002"/>
+      <Bond class1="1000320" class2="1000321" k="142674.4" length="0.1081"/>
+      <Bond class1="1000318" class2="100036" k="135143.19999999998" length="0.15236000000000002"/>
+      <Bond class1="1000318" class2="1000323" k="189535.19999999998" length="0.15280000000000002"/>
+      <Bond class1="1000313" class2="1000314" k="142674.4" length="0.10811"/>
+      <Bond class1="100038" class2="1000310" k="135143.19999999998" length="0.15208"/>
+      <Bond class1="1000322" class2="1000317" k="194597.84" length="0.13194"/>
+      <Bond class1="1000315" class2="1000311" k="194597.84" length="0.14266"/>
+   </AmoebaBondForce>
+   <AmoebaAngleForce angle-cubic="-0.014" angle-pentic="-0.0000007" angle-quartic="0.000056" angle-sextic="0.000000022">
+      <Angle angle1="116.73" class1="100031" class2="100034" class3="100036" k="0.07148777071000001"/>
+      <Angle angle1="105.95" class1="100031" class2="100034" class3="100035" k="0.09027418077"/>
+      <Angle angle1="113.31" class1="1000323" class2="1000323" class3="1000323" k="0.06149554175"/>
+      <Angle angle1="109.80" class1="1000323" class2="1000323" class3="1000324" k="0.05409058636"/>
+      <Angle angle1="109.80" class1="1000324" class2="1000323" class3="1000325" k="0.05409058636"/>
+      <Angle angle1="107.19" class1="100035" class2="100034" class3="100035" k="0.05156703874"/>
+      <Angle angle1="119.0991" class1="100036" class2="100034" class3="100035" k="0.04824054415"/>
+      <Angle angle1="108.18" class1="100031" class2="100032" class3="100033" k="0.07473779416"/>
+      <Angle angle1="107.45" class1="100033" class2="100032" class3="100033" k="0.05071311101"/>
+      <Angle angle1="107.65" class1="1000326" class2="1000325" class3="1000326" k="0.050356245689999996"/>
+      <Angle angle1="111.22" class1="100034" class2="100031" class3="100032" k="0.06584165153999999"/>
+      <Angle angle1="108.22" class1="100032" class2="100031" class3="100032" k="0.0660200842"/>
+      <Angle angle1="112.1434" class1="100034" class2="100036" class3="100037" k="0.048431721999999996"/>
+      <Angle angle1="107.23" class1="100037" class2="100036" class3="100037" k="0.05793963374"/>
+      <Angle angle1="107.60" class1="1000324" class2="1000323" class3="1000324" k="0.05043271683"/>
+      <Angle angle1="109.72" class1="100038" class2="100036" class3="100037" k="0.07766918786"/>
+      <Angle angle1="97.46" class1="100038" class2="100039" class3="100038" k="0.08359570121"/>
+      <Angle angle1="109.34" class1="100038" class2="100039" class3="1000310" k="0.09671050172"/>
+      <Angle angle1="122.22" class1="1000310" class2="100039" class3="1000310" k="0.11455376771999999"/>
+      <Angle angle1="119.96" class1="100036" class2="100038" class3="100039" k="0.10206348152"/>
+      <Angle angle1="108.3774" class1="1000311" class2="100036" class3="100037" k="0.048431721999999996"/>
+      <Angle angle1="108.53" class1="1000314" class2="1000313" class3="1000314" k="0.05043271683"/>
+      <Angle angle1="114.2619" class1="1000313" class2="1000311" class3="100036" k="0.07647113999999999"/>
+      <Angle angle1="108.984" class1="100036" class2="1000311" class3="1000312" k="0.048431721999999996"/>
+      <Angle angle1="107.6051" class1="1000313" class2="1000311" class3="1000312" k="0.048431721999999996"/>
+      <Angle angle1="117.35" class1="1000313" class2="1000315" class3="1000317" k="0.1127949315"/>
+      <Angle angle1="125.28" class1="1000318" class2="1000317" class3="1000316" k="0.07647113999999999"/>
+      <Angle angle1="111.30" class1="1000318" class2="1000317" class3="1000315" k="0.07647113999999999"/>
+      <Angle angle1="123.29" class1="1000316" class2="1000317" class3="1000315" k="0.06372595"/>
+      <Angle angle1="112.8390" class1="1000323" class2="1000323" class3="1000320" k="0.061431815800000004"/>
+      <Angle angle1="125.4116" class1="1000323" class2="1000320" class3="1000320" k="0.07647113999999999"/>
+      <Angle angle1="115.6966" class1="1000323" class2="1000320" class3="1000321" k="0.040784608"/>
+      <Angle angle1="118.8892" class1="1000320" class2="1000320" class3="1000321" k="0.040784608"/>
+      <Angle angle1="107.47" class1="1000317" class2="1000318" class3="1000319" k="0.048431721999999996"/>
+      <Angle angle1="112.99" class1="1000317" class2="1000318" class3="1000323" k="0.061431815800000004"/>
+      <Angle angle1="105.87" class1="1000319" class2="1000318" class3="1000319" k="0.05807983083"/>
+      <Angle angle1="111.4841" class1="1000319" class2="1000318" class3="1000323" k="0.048431721999999996"/>
+      <Angle angle1="107.9848" class1="1000318" class2="1000323" class3="1000324" k="0.048431721999999996"/>
+      <Angle angle1="112.2989" class1="1000318" class2="1000323" class3="1000323" k="0.061431815800000004"/>
+      <Angle angle1="111.8635" class1="100034" class2="100036" class3="100038" k="0.112157672"/>
+      <Angle angle1="109.70" class1="100038" class2="100036" class3="1000311" k="0.112157672"/>
+      <Angle angle1="110.90" class1="1000311" class2="1000313" class3="1000314" k="0.048431721999999996"/>
+      <Angle angle1="109.70" class1="1000311" class2="1000313" class3="1000315" k="0.112157672"/>
+      <Angle angle1="109.75" class1="1000314" class2="1000313" class3="1000315" k="0.07773291381"/>
+      <Angle angle1="107.30" class1="1000317" class2="1000318" class3="1000319" k="0.048431721999999996"/>
+      <Angle angle1="112.87" class1="1000323" class2="1000323" class3="1000325" k="0.06154652251"/>
+      <Angle angle1="111.27" class1="1000323" class2="1000325" class3="1000326" k="0.054065095980000005"/>
+      <Angle angle1="108.7346" class1="1000324" class2="1000323" class3="1000320" k="0.048431721999999996"/>
+      <Angle angle1="106.38" class1="1000313" class2="1000311" class3="1000322" k="0.112157672"/>
+      <Angle angle1="108.48" class1="1000322" class2="1000311" class3="1000312" k="0.07773291381"/>
+      <Angle angle1="107.10" class1="100036" class2="1000311" class3="1000322" k="0.112157672"/>
+      <Angle angle1="118.93" class1="1000311" class2="1000322" class3="1000317" k="0.1127949315"/>
+      <Angle angle1="111.03" class1="1000322" class2="1000317" class3="1000318" k="0.07647113999999999"/>
+      <Angle angle1="123.78" class1="1000316" class2="1000317" class3="1000322" k="0.06372595"/>
+   </AmoebaAngleForce>
+   <AmoebaStrbndForce stretchBendUnit="1.0">
+      <StretchBend class1="100034" class2="100031" class3="100032" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100032" class2="100031" class3="100032" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100036" class2="100036" class3="100036" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100036" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="100032" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="100034" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="100037" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="100038" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="1000311" class2="100036" class3="1000313" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="1000311" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="1000313" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="100036" class2="100036" class3="1000320" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="1000320" class2="100036" class3="1000321" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="1000318" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="1000318" class2="100036" class3="100036" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100034" class2="100036" class3="100038" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100038" class2="100036" class3="1000311" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="1000318" class2="100036" class3="100037" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="1000318" class2="100036" class3="100036" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100036" class2="100036" class3="100032" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100036" class2="100036" class3="1000320" k1="2.9209832" k2="2.9209832"/>
+      <StretchBend class1="100037" class2="100036" class3="1000320" k1="3.651229" k2="3.651229"/>
+      <StretchBend class1="100036" class2="100037" class3="100038" k1="1.4604916" k2="1.4604916"/>
+      <StretchBend class1="100031" class2="100034" class3="100036" k1="0.7302458" k2="0.7302458"/>
+      <StretchBend class1="100031" class2="100034" class3="100035" k1="1.4604916" k2="1.4604916"/>
+      <StretchBend class1="100035" class2="100034" class3="100035" k1="1.4604916" k2="1.4604916"/>
+      <StretchBend class1="100036" class2="100034" class3="100035" k1="1.4604916" k2="1.4604916"/>
+      <StretchBend class1="100037" class2="100032" class3="100033" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100031" class2="100032" class3="100033" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100033" class2="100032" class3="100033" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100036" class2="100032" class3="100033" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100036" class2="100038" class3="100039" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000313" class2="1000311" class3="100036" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000313" class2="1000311" class3="1000311" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000313" class2="1000311" class3="1000312" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100036" class2="1000311" class3="1000312" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100036" class2="1000311" class3="1000313" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000315" class2="1000311" class3="1000312" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="1000313" class2="1000311" class3="1000312" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100036" class2="1000311" class3="1000315" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000315" class2="1000311" class3="1000313" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000313" class2="1000311" class3="1000322" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000322" class2="1000311" class3="1000312" k1="5.1117206" k2="5.1117206"/>
+      <StretchBend class1="100036" class2="1000311" class3="1000322" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000314" class2="1000313" class3="1000314" k1="14.604916" k2="14.604916"/>
+      <StretchBend class1="1000311" class2="1000313" class3="1000314" k1="14.604916" k2="14.604916"/>
+      <StretchBend class1="1000311" class2="1000313" class3="1000315" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="1000314" class2="1000313" class3="1000315" k1="14.604916" k2="14.604916"/>
+      <StretchBend class1="100036" class2="1000320" class3="1000320" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="100036" class2="1000320" class3="1000321" k1="15.335161799999998" k2="15.335161799999998"/>
+      <StretchBend class1="1000320" class2="1000320" class3="1000321" k1="15.335161799999998" k2="15.335161799999998"/>
+      <StretchBend class1="100036" class2="1000320" class3="1000320" k1="4.3814747999999994" k2="4.3814747999999994"/>
+      <StretchBend class1="100036" class2="1000320" class3="1000321" k1="15.335161799999998" k2="15.335161799999998"/>
+      <StretchBend class1="1000320" class2="1000320" class3="1000321" k1="15.335161799999998" k2="15.335161799999998"/>
+      <StretchBend class1="1000319" class2="1000318" class3="1000316" k1="9.4931954" k2="9.4931954"/>
+      <StretchBend class1="1000317" class2="1000318" class3="1000319" k1="9.4931954" k2="9.4931954"/>
+      <StretchBend class1="1000317" class2="1000318" class3="100036" k1="8.0327038" k2="8.0327038"/>
+      <StretchBend class1="1000319" class2="1000318" class3="1000319" k1="9.4931954" k2="9.4931954"/>
+      <StretchBend class1="1000319" class2="1000318" class3="100036" k1="9.4931954" k2="9.4931954"/>
+      <StretchBend class1="1000317" class2="1000318" class3="1000319" k1="9.4931954" k2="9.4931954"/>
+      <StretchBend class1="1000317" class2="1000318" class3="100036" k1="8.0327038" k2="8.0327038"/>
+      <StretchBend class1="1000319" class2="1000318" class3="1000319" k1="9.4931954" k2="9.4931954"/>
+      <StretchBend class1="1000319" class2="1000318" class3="100036" k1="9.4931954" k2="9.4931954"/>
+      <StretchBend class1="1000313" class2="1000315" class3="1000317" k1="8.0327038" k2="8.0327038"/>
+      <StretchBend class1="1000311" class2="1000315" class3="1000317" k1="8.0327038" k2="8.0327038"/>
+      <StretchBend class1="1000311" class2="1000322" class3="1000317" k1="8.0327038" k2="8.0327038"/>
+      <StretchBend class1="1000318" class2="1000317" class3="1000316" k1="14.604916" k2="14.604916"/>
+      <StretchBend class1="1000318" class2="1000317" class3="1000315" k1="14.604916" k2="14.604916"/>
+      <StretchBend class1="1000316" class2="1000317" class3="1000315" k1="14.604916" k2="14.604916"/>
+      <StretchBend class1="1000322" class2="1000317" class3="1000318" k1="14.604916" k2="14.604916"/>
+      <StretchBend class1="1000316" class2="1000317" class3="1000322" k1="14.604916" k2="14.604916"/>
+   </AmoebaStrbndForce>
+   <AmoebaOutOfPlaneBendForce opbend-cubic="-0.014" opbend-pentic="-0.0000007" opbend-quartic="0.000056" opbend-sextic="0.000000022" type="ALLINGER">
+      <Angle class1="1000318" class2="1000317" class3="100030" class4="100030" k="0.018355622638"/>
+      <Angle class1="1000315" class2="1000317" class3="100030" class4="100030" k="0.018355622638"/>
+      <Angle class1="1000322" class2="1000317" class3="100030" class4="100030" k="0.018355622638"/>
+      <Angle class1="1000316" class2="1000317" class3="100030" class4="100030" k="0.059597782959000006"/>
+   </AmoebaOutOfPlaneBendForce>
+   <AmoebaTorsionForce torsionUnit="0.5">
+      <Angle amp1="0.0" amp2="-3.6547240000000003" amp3="-0.33472" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100036" class2="100034" class3="100031" class4="100032"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100035" class2="100034" class3="100031" class4="100032"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100031" class2="100034" class3="100036" class4="100037"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100035" class2="100034" class3="100036" class4="100037"/>
+      <Angle amp1="0.150624" amp2="-0.025104" amp3="1.1777959999999998" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100033" class2="100032" class3="100031" class4="100034"/>
+      <Angle amp1="0.150624" amp2="-0.025104" amp3="1.1777959999999998" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100033" class2="100032" class3="100031" class4="100032"/>
+      <Angle amp1="-25.81528" amp2="0.778224" amp3="1.043908" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100034" class2="100036" class3="100038" class4="100039"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100037" class2="100036" class3="100038" class4="100039"/>
+      <Angle amp1="1.85142" amp2="-6.058432" amp3="0.587852" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100038" class2="100039" class3="100038" class4="100036"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000310" class2="100039" class3="100038" class4="100036"/>
+      <Angle amp1="14.303004" amp2="1.31796" amp3="8.430760000000001" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100031" class2="100034" class3="100036" class4="100038"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100035" class2="100034" class3="100036" class4="100038"/>
+      <Angle amp1="5.152596" amp2="3.614976" amp3="9.671316000000001" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100038" class2="100036" class3="1000311" class4="1000313"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100037" class2="100036" class3="1000311" class4="1000313"/>
+      <Angle amp1="-5.66932" amp2="-7.914036" amp3="9.35124" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100038" class2="100036" class3="1000311" class4="1000322"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100037" class2="100036" class3="1000311" class4="1000322"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100038" class2="100036" class3="1000311" class4="1000312"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100037" class2="100036" class3="1000311" class4="1000312"/>
+      <Angle amp1="1.702888" amp2="0.89956" amp3="2.389064" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000315" class2="1000313" class3="1000311" class4="100036"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000314" class2="1000313" class3="1000311" class4="100036"/>
+      <Angle amp1="3.22168" amp2="-1.533436" amp3="2.01878" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000315" class2="1000313" class3="1000311" class4="1000322"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000314" class2="1000313" class3="1000311" class4="1000322"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000315" class2="1000313" class3="1000311" class4="1000312"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000314" class2="1000313" class3="1000311" class4="1000312"/>
+      <Angle amp1="13.160772000000001" amp2="-1.054368" amp3="-15.675356" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100036" class2="1000311" class3="1000322" class4="1000317"/>
+      <Angle amp1="-3.1882080000000004" amp2="0.179912" amp3="2.7614400000000003" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000313" class2="1000311" class3="1000322" class4="1000317"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000312" class2="1000311" class3="1000322" class4="1000317"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000319" class2="1000318" class3="1000317" class4="1000315"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000319" class2="1000318" class3="1000317" class4="1000316"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000319" class2="1000318" class3="1000317" class4="1000322"/>
+      <Angle amp1="5.799024" amp2="-5.612836" amp3="-1.853512" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="100039" class2="100038" class3="100036" class4="1000311"/>
+      <Angle amp1="-5.472672" amp2="-2.056436" amp3="-0.780316" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000311" class2="1000313" class3="1000315" class4="1000317"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000314" class2="1000313" class3="1000311" class4="1000315"/>
+      <Angle amp1="0.0" amp2="25.453364" amp3="-8.782216000000002" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000318" class2="1000317" class3="1000315" class4="1000313"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="-12.317696" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000316" class2="1000317" class3="1000315" class4="1000313"/>
+      <Angle amp1="0.0" amp2="14.060332" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000318" class2="1000317" class3="1000322" class4="1000311"/>
+      <Angle amp1="0.0" amp2="14.060332" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000311" class2="1000322" class3="1000317" class4="1000316"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000314" class2="1000313" class3="1000315" class4="1000317"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000318" class2="1000323" class3="1000323" class4="1000324"/>
+      <Angle amp1="3.2049440000000002" amp2="-4.144252000000001" amp3="3.4329720000000004" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000317" class2="1000318" class3="1000323" class4="1000323"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000319" class2="1000318" class3="1000323" class4="1000323"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000317" class2="1000318" class3="1000323" class4="1000324"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000319" class2="1000318" class3="1000323" class4="1000324"/>
+      <Angle amp1="2.5752520000000003" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000315" class2="1000317" class3="1000318" class4="1000323"/>
+      <Angle amp1="0.0" amp2="-0.08158800000000001" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000316" class2="1000317" class3="1000318" class4="1000323"/>
+      <Angle amp1="0.0" amp2="-0.08158800000000001" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000322" class2="1000317" class3="1000318" class4="1000323"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.625508" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000326" class2="1000325" class3="1000323" class4="1000324"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000324" class2="1000323" class3="1000320" class4="1000320"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000324" class2="1000323" class3="1000320" class4="1000321"/>
+      <Angle amp1="5.895256000000001" amp2="-0.8577199999999999" amp3="5.171424" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000318" class2="1000323" class3="1000323" class4="1000323"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000323" class3="1000323" class4="1000324"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.625508" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000324" class2="1000323" class3="1000323" class4="1000324"/>
+      <Angle amp1="1.188256" amp2="-0.7845" amp3="4.815784" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000323" class3="1000323" class4="1000323"/>
+      <Angle amp1="0.0" amp2="16.736" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000320" class3="1000320" class4="1000323"/>
+      <Angle amp1="5.8053" amp2="-1.45394" amp3="-2.658932" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000323" class3="1000320" class4="1000320"/>
+      <Angle amp1="0.0" amp2="12.7612" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000320" class3="1000320" class4="1000321"/>
+      <Angle amp1="0.0" amp2="8.51444" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000321" class2="1000320" class3="1000320" class4="1000321"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000323" class3="1000320" class4="1000321"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.0" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000324" class2="1000323" class3="1000323" class4="1000320"/>
+      <Angle amp1="1.3577080000000001" amp2="0.876548" amp3="5.171424" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000323" class3="1000323" class4="1000320"/>
+      <Angle amp1="1.499964" amp2="-0.27823600000000004" amp3="2.349316" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000323" class2="1000323" class3="1000323" class4="1000325"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.7133720000000001" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000324" class2="1000323" class3="1000323" class4="1000325"/>
+      <Angle amp1="0.0" amp2="0.0" amp3="0.7133720000000001" angle1="0.0" angle2="3.1415922" angle3="0.0" class1="1000326" class2="1000325" class3="1000323" class4="1000323"/>
+   </AmoebaTorsionForce>
+   <AmoebaMultipoleForce direct11Scale="0.0" direct12Scale="1.0" direct13Scale="1.0" direct14Scale="1.0" mpole12Scale="0.0" mpole13Scale="0.0" mpole14Scale="0.4" mpole15Scale="0.8" mutual11Scale="1.0" mutual12Scale="1.0" mutual13Scale="1.0" mutual14Scale="1.0" polar12Scale="0.0" polar13Scale="0.0" polar14Intra="0.5" polar14Scale="1.0" polar15Scale="1.0">
+      <Multipole c0="0.33714" d1="0.0" d2="0.0" d3="-0.0001592823372" kx="10003-4" kz="100032" q11="6.8915018772e-05" q21="0.0" q22="-0.00014868580983599998" q31="0.0" q32="0.0" q33="7.9770791064e-05" type="100031"/>
+      <Multipole c0="-0.11686" d1="0.0" d2="0.0" d3="0.016872815022000002" kx="100033" kz="100031" q11="-0.0005666657130719999" q21="0.0" q22="-0.0006089500195919999" q31="0.0" q32="0.0" q33="0.0011756157326639999" type="100032"/>
+      <Multipole c0="0.09694" d1="-0.001584885714" d2="0.0" d3="-0.0054515835144" kx="100031" kz="100032" q11="-5.8217929308e-05" q21="0.0" q22="4.6372722912e-05" q31="-2.0936799011999997e-05" q32="0.0" q33="1.1845206396e-05" type="100033"/>
+      <Multipole c0="-0.11686" d1="0.0" d2="0.0" d3="0.0170437392576" kx="100035" kz="100031" q11="-0.000645680427132" q21="0.0" q22="-0.000486904256292" q31="0.0" q32="0.0" q33="0.001132584683424" type="100034"/>
+      <Multipole c0="0.09694" d1="-0.0012176367372" d2="0.0" d3="-0.005757977113200001" kx="100031" kz="100034" q11="-2.548259532e-05" q21="0.0" q22="5.4008167223999996e-05" q31="1.8267193788e-05" q32="0.0" q33="-2.8525571904e-05" type="100035"/>
+      <Multipole c0="-0.11686" d1="0.0" d2="0.0" d3="0.016545783512400002" kx="100037" kz="100031" q11="-0.000478531403544" q21="0.0" q22="-0.00054222855756" q31="0.0" q32="0.0" q33="0.001020759961104" type="100036"/>
+      <Multipole c0="0.09694" d1="-0.0012774337608000002" d2="0.0" d3="-0.0069650303064" kx="100031" kz="100036" q11="3.1867245576e-05" q21="0.0" q22="6.1736954376e-05" q31="-3.4415505108e-05" q32="0.0" q33="-9.360419995199999e-05" type="100037"/>
+      <Multipole c0="-0.11694" d1="0.0117016954236" d2="0.0" d3="0.0312653765076" kx="1000310" kz="100031" q11="-0.000374230114128" q21="0.0" q22="-0.000546886365276" q31="-6.8831010216e-05" q32="0.0" q33="0.0009211164794039999" type="100038"/>
+      <Multipole c0="0.09783" d1="-0.0010652337036" d2="0.0" d3="-0.0016277490672" kx="100031" kz="100038" q11="-5.474557566e-05" q21="0.0" q22="0.000118414726824" q31="2.1562196039999997e-06" q32="0.0" q33="-6.366915116400001e-05" type="100039"/>
+      <Multipole c0="0.12911" d1="0.0202558448616" d2="0.0" d3="0.0015727146384" kx="1000312" kz="100038" q11="0.000434846954424" q21="0.0" q22="-0.000313249236756" q31="-0.0007280648177159999" q32="0.0" q33="-0.00012159771766799999" type="1000310"/>
+      <Multipole c0="0.02153" d1="-0.002079666396" d2="0.0" d3="-0.0043424281031999995" kx="100038" kz="1000310" q11="0.00010669086611999999" q21="0.0" q22="-5.3942827235999996e-05" q31="-5.4848252784e-05" q32="0.0" q33="-5.2748038883999994e-05" type="1000311"/>
+      <Multipole c0="-0.53623" d1="0.0026569987212" d2="0.0" d3="0.019079483946" kx="1000313" kz="1000310" q11="-0.00055707006912" q21="0.0" q22="-0.0008861782543919999" q31="-0.00042965709251999997" q32="0.0" q33="0.001443248323512" type="1000312"/>
+      <Multipole c0="1.75680" d1="0.0" d2="0.0" d3="0.0024352734744" kx="10003-16" kz="1000312" q11="0.000221866596396" q21="0.0" q22="0.000406106693988" q31="0.0" q32="0.0" q33="-0.000627973290384" type="1000313"/>
+      <Multipole c0="-0.94505" d1="0.0" d2="0.0" d3="-0.00810964059" kx="1000312" kz="1000313" q11="-4.4459194692e-05" q21="0.0" q22="-0.00021369909789599998" q31="0.0" q32="0.0" q33="0.000258158292588" type="1000314"/>
+      <Multipole c0="-0.94505" d1="0.0" d2="0.0" d3="-0.0050356502352" kx="1000316" kz="1000313" q11="7.481428625999999e-05" q21="0.0" q22="-0.00037442613409199995" q31="0.0" q32="0.0" q33="0.00029961184783199995" type="1000315"/>
+      <Multipole c0="-0.53623" d1="-4.86843024e-05" d2="0.0" d3="0.0155308216428" kx="1000313" kz="1000317" q11="0.000278917740204" q21="0.0" q22="-0.00078053282808" q31="-0.0004867829105999999" q32="0.0" q33="0.0005016150878760001" type="1000316"/>
+      <Multipole c0="0.12911" d1="0.0126404557764" d2="0.0" d3="0.0040302135552" kx="1000321" kz="1000319" q11="-9.6180462336e-05" q21="0.0" q22="-9.5835093828e-05" q31="0.0008627118644159999" q32="0.0" q33="0.000192015556164" type="1000317"/>
+      <Multipole c0="0.02153" d1="0.0011964696492" d2="0.0" d3="0.0044075168988" kx="1000319" kz="1000317" q11="-3.6189019067999995e-05" q21="0.0" q22="-0.000203356711224" q31="-1.7137745424e-05" q32="0.0" q33="0.00023954573029200002" type="1000318"/>
+      <Multipole c0="0.02850" d1="0.0037449870444" d2="0.0" d3="0.0101295099624" kx="1000317" kz="1000321" q11="-0.000176287287624" q21="0.0" q22="-4.8192908292e-05" q31="-0.00034762740472799996" q32="0.0" q33="0.000224480195916" type="1000319"/>
+      <Multipole c0="0.08536" d1="-0.0017282927352" d2="0.0" d3="0.002770242642" kx="1000321" kz="1000319" q11="-2.0554093368e-05" q21="0.0" q22="-3.1997925552e-05" q31="-3.169922846399999e-05" q32="0.0" q33="5.255201892e-05" type="1000320"/>
+      <Multipole c0="0.08549" d1="0.0182005206168" d2="0.0" d3="0.0090552802464" kx="1000323" kz="1000319" q11="0.00033500745275999997" q21="0.0" q22="-0.0005102586348599999" q31="-0.000647668629624" q32="0.0" q33="0.0001752511821" type="1000321"/>
+      <Multipole c0="0.03662" d1="-0.0020431531692" d2="0.0" d3="-0.0033925550292000003" kx="1000319" kz="1000321" q11="-4.7072794212e-05" q21="0.0" q22="5.0087767944e-05" q31="4.2620340744e-05" q32="0.0" q33="-3.0149737319999995e-06" type="1000322"/>
+      <Multipole c0="-0.36349" d1="0.0054208912368" d2="0.0" d3="0.017709973352400002" kx="1000326" kz="1000321" q11="-0.00038830621439999997" q21="0.0" q22="-0.0007556102898" q31="-0.000430721200896" q32="0.0" q33="0.0011439165042" type="1000323"/>
+      <Multipole c0="-0.29002" d1="0.0012578542044" d2="0.0" d3="0.017780353920000002" kx="1000330" kz="1000319" q11="-0.00043235470059599997" q21="0.0" q22="-0.00025811162116799995" q31="-0.00036081674801999997" q32="0.0" q33="0.0006904663217639999" type="1000324"/>
+      <Multipole c0="-0.67210" d1="-0.004916585365200001" d2="0.0" d3="-0.0041080026036" kx="1000327" kz="1000326" q11="-0.000440008813476" q21="0.0" q22="0.000200864457396" q31="5.41388472e-07" q32="0.0" q33="0.00023914435607999998" type="1000325"/>
+      <Multipole c0="0.96736" d1="-0.006815273158799999" d2="0.0" d3="-0.0002307212592" kx="1000323" kz="1000327" q11="0.000485840147916" q21="0.0" q22="-0.000157208011128" q31="-0.000336715626732" q32="0.0" q33="-0.00032863213678799996" type="1000326"/>
+      <Multipole c0="-0.33625" d1="-0.0048096915708" d2="0.0" d3="0.0157435508772" kx="1000326" kz="1000333" q11="-0.00025949309520000003" q21="0.0" q22="-0.00037210189737599996" q31="1.1285149356e-05" q32="0.0" q33="0.000631594992576" type="1000327"/>
+      <Multipole c0="0.08282" d1="0.0035782962264000002" d2="0.0" d3="-0.0067083793644" kx="1000333" kz="1000327" q11="7.761457146e-05" q21="0.0" q22="7.1071238376e-05" q31="8.68088412e-05" q32="0.0" q33="-0.00014868580983599998" type="1000328"/>
+      <Multipole c0="-0.62676" d1="0.0010329538944" d2="0.0" d3="-0.0037026528684" kx="1000331" kz="1000330" q11="-0.00033069501355199995" q21="0.0" q22="0.000111843390888" q31="0.000143598625056" q32="0.0" q33="0.000218851622664" type="1000329"/>
+      <Multipole c0="0.78858" d1="-0.001172127498" d2="0.0" d3="-0.0161155624488" kx="1000324" kz="1000331" q11="1.7669799612e-05" q21="0.0" q22="-5.5473649811999994e-05" q31="-0.000467143577064" q32="0.0" q33="3.78038502e-05" type="1000330"/>
+      <Multipole c0="-0.15457" d1="0.009721514341200001" d2="0.0" d3="0.0110428698096" kx="1000330" kz="1000333" q11="0.000199977700416" q21="0.0" q22="-0.000522458544048" q31="-0.00013309755555599998" q32="0.0" q33="0.00032248084363199997" type="1000331"/>
+      <Multipole c0="0.08635" d1="0.0019865312088" d2="0.0" d3="-0.0058828629324" kx="1000333" kz="1000331" q11="1.7651131044e-05" q21="0.0" q22="6.515330232e-05" q31="-1.194788352e-06" q32="0.0" q33="-8.280443336399999e-05" type="1000332"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.0087224277876" kx="1000327" kz="1000335" q11="-0.00031883113858799996" q21="0.0" q22="0.000270992933088" q31="0.0" q32="0.0" q33="4.78382055e-05" type="1000333"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.0087224277876" kx="1000331" kz="1000335" q11="-0.00031883113858799996" q21="0.0" q22="0.000270992933088" q31="0.0" q32="0.0" q33="4.78382055e-05" type="1000333"/>
+      <Multipole c0="0.06014" d1="-0.004966328022000001" d2="0.0" d3="0.0032613190836" kx="1000335" kz="1000333" q11="-5.3690801568e-05" q21="0.0" q22="-0.00010689622036799999" q31="-0.00014948855825999997" q32="0.0" q33="0.00016058702193599999" type="1000334"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.011141825946" kx="1000333" kz="1000337" q11="6.5087962332e-05" q21="0.0" q22="-0.00015622791130799998" q31="0.0" q32="0.0" q33="9.1139948976e-05" type="1000335"/>
+      <Multipole c0="0.06014" d1="0.0061601517852000005" d2="0.0" d3="-0.0034221889524000005" kx="1000333" kz="1000335" q11="0.00016208050737599999" q21="0.0" q22="-7.2984766596e-05" q31="0.00011007921121199998" q32="0.0" q33="-8.909574077999999e-05" type="1000336"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.0117514380804" kx="1000335" kz="1000339" q11="-0.00042136824832799996" q21="0.0" q22="0.00012061761784799999" q31="0.0" q32="0.0" q33="0.00030075063048" type="1000337"/>
+      <Multipole c0="0.06014" d1="-0.0030247768752" d2="0.0" d3="0.0024400360692" kx="1000339" kz="1000337" q11="-7.8417319884e-05" q21="0.0" q22="-2.4343812671999997e-05" q31="-0.000114242301876" q32="0.0" q33="0.00010276113255599999" type="1000338"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.01305744741" kx="1000341" kz="1000337" q11="0.000761528225856" q21="0.0" q22="-0.00038413378945199996" q31="0.0" q32="0.0" q33="-0.000377394436404" type="1000339"/>
+      <Multipole c0="0.06014" d1="3.5984049600000003e-05" d2="0.0" d3="-0.003299419842" kx="1000341" kz="1000339" q11="5.8208595024e-05" q21="0.0" q22="3.9185324232e-05" q31="1.5224217204e-05" q32="0.0" q33="-9.7393919256e-05" type="1000340"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.0140671175076" kx="1000343" kz="1000339" q11="-0.000272626432788" q21="0.0" q22="-9.0477214812e-05" q31="0.0" q32="0.0" q33="0.0003631036476" type="1000341"/>
+      <Multipole c0="0.06014" d1="-0.0005630445408" d2="0.0" d3="-0.0007641318768" kx="1000339" kz="1000341" q11="-4.228430652e-05" q21="0.0" q22="-2.7293446415999996e-05" q31="-1.2013223507999999e-05" q32="0.0" q33="6.9577752936e-05" type="1000342"/>
+      <Multipole c0="-0.08684" d1="0.0085896043104" d2="0.0" d3="0.0084731853264" kx="1000345" kz="1000341" q11="0.00019311700167599997" q21="0.0" q22="4.1920269443999995e-05" q31="-0.000252688402164" q32="0.0" q33="-0.00023503727112000002" type="1000343"/>
+      <Multipole c0="0.06914" d1="-0.0012562666728" d2="0.0" d3="-0.005706646924800001" kx="1000341" kz="1000343" q11="0.000122307123252" q21="0.0" q22="1.0911777996e-05" q31="2.277565296e-06" q32="0.0" q33="-0.000133218901248" type="1000344"/>
+      <Multipole c0="-0.10494" d1="0.0010197244644" d2="0.0" d3="0.00697190961" kx="1000347" kz="1000343" q11="-3.0336422999999998e-06" q21="0.0" q22="-9.636714801599999e-05" q31="0.00022011175100399998" q32="0.0" q33="9.9400790316e-05" type="1000345"/>
+      <Multipole c0="0.05350" d1="0.00074084808" d2="0.0" d3="-0.0051176727012" kx="1000343" kz="1000345" q11="0.000107054903196" q21="0.0" q22="-5.682712099199999e-05" q31="-4.947170519999999e-07" q32="0.0" q33="-5.0227782203999996e-05" type="1000346"/>
+      <Multipole c0="-0.10494" d1="0.0009541064916000001" d2="0.0" d3="0.006816331513200001" kx="1000345" kz="1000349" q11="6.887768163599999e-05" q21="0.0" q22="-0.00015439839164399998" q31="0.000205391585136" q32="0.0" q33="8.552071000799999e-05" type="1000347"/>
+      <Multipole c0="0.05350" d1="0.0010292496539999999" d2="0.0" d3="-0.0054579336408" kx="1000349" kz="1000347" q11="0.000149217864024" q21="0.0" q22="-5.2122641856e-05" q31="1.558825428e-05" q32="0.0" q33="-9.7095222168e-05" type="1000348"/>
+      <Multipole c0="-0.08684" d1="0.0084583683648" d2="0.0" d3="0.0082424640672" kx="1000347" kz="1000351" q11="0.00014267453094" q21="0.0" q22="-7.943475684e-06" q31="-0.000309786217392" q32="0.0" q33="-0.000134731055256" type="1000349"/>
+      <Multipole c0="0.06914" d1="-0.0012769045836" d2="0.0" d3="-0.006088183686" kx="1000351" kz="1000349" q11="0.000101351655672" q21="0.0" q22="3.5320930656e-05" q31="-1.6736371212000002e-05" q32="0.0" q33="-0.000136672586328" type="1000350"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.014123739468000001" kx="1000349" kz="1000353" q11="-8.5371361464e-05" q21="0.0" q22="3.679574752799999e-05" q31="0.0" q32="0.0" q33="4.8575613936e-05" type="1000351"/>
+      <Multipole c0="0.06014" d1="-0.0012853714187999999" d2="0.0" d3="-0.0002915766372" kx="1000353" kz="1000351" q11="-1.8052505255999998e-05" q21="0.0" q22="-4.191093516e-05" q31="-1.2265249176e-05" q32="0.0" q33="5.9963440416000004e-05" type="1000352"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.0140184332052" kx="1000355" kz="1000351" q11="0.00044879237472" q21="0.0" q22="-0.000381370841388" q31="0.0" q32="0.0" q33="-6.7421533332e-05" type="1000353"/>
+      <Multipole c0="0.06014" d1="8.78434152e-05" d2="0.0" d3="-0.0024516779676000003" kx="1000355" kz="1000353" q11="2.5594606727999997e-05" q21="0.0" q22="2.062876764e-05" q31="-3.4564853651999996e-05" q32="0.0" q33="-4.6223374368e-05" type="1000354"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.0135051313212" kx="1000357" kz="1000353" q11="-0.00022752317249999997" q21="0.0" q22="0.00020230193713199998" q31="0.0" q32="0.0" q33="2.5221235367999997e-05" type="1000355"/>
+      <Multipole c0="0.06014" d1="-0.002370713856" d2="0.0" d3="0.0020653786116000003" kx="1000353" kz="1000355" q11="-5.245867608e-05" q21="0.0" q22="-5.1982627596e-05" q31="-3.7626498804e-05" q32="0.0" q33="0.000104441303676" type="1000356"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.0109132213956" kx="1000359" kz="1000355" q11="0.000122307123252" q21="0.0" q22="-0.00018815116258799998" q31="0.0" q32="0.0" q33="6.584403933600001e-05" type="1000357"/>
+      <Multipole c0="0.06014" d1="0.006432148866" d2="0.0" d3="-0.0049097060616" kx="1000359" kz="1000357" q11="0.00011747196413999999" q21="0.0" q22="2.2028910239999998e-05" q31="0.000173925713772" q32="0.0" q33="-0.00013950087438" type="1000358"/>
+      <Multipole c0="-0.12028" d1="0.0" d2="0.0" d3="0.01322943" kx="1000361" kz="1000357" q11="0.000277713617568" q21="0.0" q22="-0.00035375069503199995" q31="0.0" q32="0.0" q33="7.6037077464e-05" type="1000359"/>
+      <Multipole c0="0.06014" d1="0.0013615729356" d2="0.0" d3="-0.0056484374328" kx="1000361" kz="1000359" q11="9.7235236428e-05" q21="0.0" q22="2.2122253079999997e-05" q31="2.3485058543999997e-05" q32="0.0" q33="-0.000119357489508" type="1000360"/>
+      <Multipole c0="-0.12028" d1="0.016092278652" d2="0.0" d3="0.009070097208" kx="1000363" kz="1000359" q11="7.7745251436e-05" q21="0.0" q22="-0.000473472221616" q31="-0.00026074388925599997" q32="0.0" q33="0.00039572697018" type="1000361"/>
+      <Multipole c0="0.06014" d1="0.0012208118004" d2="0.0" d3="-0.007830235028399999" kx="1000363" kz="1000361" q11="0.000111992739432" q21="0.0" q22="8.2057690644e-05" q31="3.4191482292e-05" q32="0.0" q33="-0.000194050430076" type="1000362"/>
+      <Multipole c0="-0.16638" d1="0.0" d2="0.0" d3="0.0132617098092" kx="1000364" kz="1000361" q11="-0.000275426717988" q21="0.0" q22="-0.000302906850084" q31="0.0" q32="0.0" q33="0.000578333568072" type="1000363"/>
+      <Multipole c0="0.05546" d1="0.000412758216" d2="0.0" d3="-0.004029684378" kx="1000361" kz="1000363" q11="-1.0659752328e-05" q21="0.0" q22="3.1652557044e-05" q31="-2.0936799011999997e-05" q32="0.0" q33="-2.0992804715999997e-05" type="1000364"/>
+      <Polarize pgrp1="2" pgrp2="4" pgrp3="6" pgrp4="8" polarizability="0.001073" thole="0.390" type="100031"/>
+      <Polarize pgrp1="1" pgrp2="3" polarizability="0.0013340000000000001" thole="0.390" type="100032"/>
+      <Polarize pgrp1="2" polarizability="0.000496" thole="0.390" type="100033"/>
+      <Polarize pgrp1="1" pgrp2="5" polarizability="0.0013340000000000001" thole="0.390" type="100034"/>
+      <Polarize pgrp1="4" polarizability="0.000496" thole="0.390" type="100035"/>
+      <Polarize pgrp1="1" pgrp2="7" polarizability="0.0013340000000000001" thole="0.390" type="100036"/>
+      <Polarize pgrp1="6" polarizability="0.000496" thole="0.390" type="100037"/>
+      <Polarize pgrp1="1" pgrp2="9" polarizability="0.0013340000000000001" thole="0.390" type="100038"/>
+      <Polarize pgrp1="8" polarizability="0.000496" thole="0.390" type="100039"/>
+      <Polarize pgrp1="12" pgrp2="11" polarizability="0.0013340000000000001" thole="0.390" type="1000310"/>
+      <Polarize pgrp1="10" polarizability="0.000496" thole="0.390" type="1000311"/>
+      <Polarize pgrp1="10" pgrp2="13" polarizability="0.000837" thole="0.390" type="1000312"/>
+      <Polarize pgrp1="12" pgrp2="14" pgrp3="15" pgrp4="16" polarizability="0.0018280000000000002" thole="0.390" type="1000313"/>
+      <Polarize pgrp1="13" polarizability="0.000837" thole="0.390" type="1000314"/>
+      <Polarize pgrp1="13" polarizability="0.000837" thole="0.390" type="1000315"/>
+      <Polarize pgrp1="17" pgrp2="13" polarizability="0.000837" thole="0.390" type="1000316"/>
+      <Polarize pgrp1="16" pgrp2="18" polarizability="0.0013340000000000001" thole="0.390" type="1000317"/>
+      <Polarize pgrp1="17" polarizability="0.000496" thole="0.390" type="1000318"/>
+      <Polarize pgrp1="20" pgrp2="24" polarizability="0.0013340000000000001" thole="0.390" type="1000319"/>
+      <Polarize pgrp1="19" polarizability="0.000496" thole="0.390" type="1000320"/>
+      <Polarize pgrp1="22" pgrp2="23" polarizability="0.0013340000000000001" thole="0.390" type="1000321"/>
+      <Polarize pgrp1="21" polarizability="0.000496" thole="0.390" type="1000322"/>
+      <Polarize pgrp1="21" pgrp2="26" polarizability="0.000837" thole="0.390" type="1000323"/>
+      <Polarize pgrp1="30" pgrp2="19" polarizability="0.000837" thole="0.390" type="1000324"/>
+      <Polarize pgrp1="26" polarizability="0.000837" thole="0.390" type="1000325"/>
+      <Polarize pgrp1="23" pgrp2="27" pgrp3="25" polarizability="0.0013340000000000001" thole="0.390" type="1000326"/>
+      <Polarize pgrp1="26" pgrp2="28" polarizability="0.0013340000000000001" thole="0.390" type="1000327"/>
+      <Polarize pgrp1="27" polarizability="0.000496" thole="0.390" type="1000328"/>
+      <Polarize pgrp1="30" polarizability="0.000837" thole="0.390" type="1000329"/>
+      <Polarize pgrp1="29" pgrp2="24" pgrp3="31" polarizability="0.0013340000000000001" thole="0.390" type="1000330"/>
+      <Polarize pgrp1="30" pgrp2="32" polarizability="0.0013340000000000001" thole="0.390" type="1000331"/>
+      <Polarize pgrp1="31" polarizability="0.000496" thole="0.390" type="1000332"/>
+      <Polarize pgrp1="34" polarizability="0.0013340000000000001" thole="0.390" type="1000333"/>
+      <Polarize pgrp1="33" polarizability="0.000496" thole="0.390" type="1000334"/>
+      <Polarize pgrp1="37" pgrp2="36" polarizability="0.0013340000000000001" thole="0.390" type="1000335"/>
+      <Polarize pgrp1="35" polarizability="0.000496" thole="0.390" type="1000336"/>
+      <Polarize pgrp1="35" pgrp2="38" polarizability="0.0013340000000000001" thole="0.390" type="1000337"/>
+      <Polarize pgrp1="37" polarizability="0.000496" thole="0.390" type="1000338"/>
+      <Polarize pgrp1="41" pgrp2="40" polarizability="0.0013340000000000001" thole="0.390" type="1000339"/>
+      <Polarize pgrp1="39" polarizability="0.000496" thole="0.390" type="1000340"/>
+      <Polarize pgrp1="39" pgrp2="42" polarizability="0.0013340000000000001" thole="0.390" type="1000341"/>
+      <Polarize pgrp1="41" polarizability="0.000496" thole="0.390" type="1000342"/>
+      <Polarize pgrp1="44" polarizability="0.0013340000000000001" thole="0.390" type="1000343"/>
+      <Polarize pgrp1="43" polarizability="0.000496" thole="0.390" type="1000344"/>
+      <Polarize pgrp1="47" pgrp2="46" polarizability="0.0013340000000000001" thole="0.390" type="1000345"/>
+      <Polarize pgrp1="45" polarizability="0.000496" thole="0.390" type="1000346"/>
+      <Polarize pgrp1="45" pgrp2="48" polarizability="0.0013340000000000001" thole="0.390" type="1000347"/>
+      <Polarize pgrp1="47" polarizability="0.000496" thole="0.390" type="1000348"/>
+      <Polarize pgrp1="50" polarizability="0.0013340000000000001" thole="0.390" type="1000349"/>
+      <Polarize pgrp1="49" polarizability="0.000496" thole="0.390" type="1000350"/>
+      <Polarize pgrp1="53" pgrp2="52" polarizability="0.0013340000000000001" thole="0.390" type="1000351"/>
+      <Polarize pgrp1="51" polarizability="0.000496" thole="0.390" type="1000352"/>
+      <Polarize pgrp1="51" pgrp2="54" polarizability="0.0013340000000000001" thole="0.390" type="1000353"/>
+      <Polarize pgrp1="53" polarizability="0.000496" thole="0.390" type="1000354"/>
+      <Polarize pgrp1="57" pgrp2="56" polarizability="0.0013340000000000001" thole="0.390" type="1000355"/>
+      <Polarize pgrp1="55" polarizability="0.000496" thole="0.390" type="1000356"/>
+      <Polarize pgrp1="55" pgrp2="58" polarizability="0.0013340000000000001" thole="0.390" type="1000357"/>
+      <Polarize pgrp1="57" polarizability="0.000496" thole="0.390" type="1000358"/>
+      <Polarize pgrp1="60" polarizability="0.0013340000000000001" thole="0.390" type="1000359"/>
+      <Polarize pgrp1="59" polarizability="0.000496" thole="0.390" type="1000360"/>
+      <Polarize pgrp1="62" pgrp2="63" polarizability="0.0013340000000000001" thole="0.390" type="1000361"/>
+      <Polarize pgrp1="61" polarizability="0.000496" thole="0.390" type="1000362"/>
+      <Polarize pgrp1="61" pgrp2="64" polarizability="0.0013340000000000001" thole="0.390" type="1000363"/>
+      <Polarize pgrp1="63" polarizability="0.000496" thole="0.390" type="1000364"/>
+   </AmoebaMultipoleForce>
+</ForceField>

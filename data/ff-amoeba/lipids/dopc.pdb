@@ -1,0 +1,413 @@
+CRYST1  100.000  100.000  100.000  90.00  90.00  90.00 P 1           1
+HETATM    1    N DOP A   1       28.62   23.10   59.98  0.00  0.00              
+HETATM    2  C12 DOP A   1       29.02   23.32   58.52  0.00  0.00              
+HETATM    3 H12A DOP A   1       29.97   22.84   58.33  0.00  0.00              
+HETATM    4 H12B DOP A   1       29.20   24.37   58.36  0.00  0.00              
+HETATM    5  C13 DOP A   1       28.21   21.68   60.21  0.00  0.00              
+HETATM    6 H13A DOP A   1       29.00   20.99   59.96  0.00  0.00              
+HETATM    7 H13B DOP A   1       27.91   21.54   61.24  0.00  0.00              
+HETATM    8 H13C DOP A   1       27.34   21.45   59.60  0.00  0.00              
+HETATM    9  C14 DOP A   1       27.45   23.96   60.33  0.00  0.00              
+HETATM   10 H14A DOP A   1       27.66   25.01   60.17  0.00  0.00              
+HETATM   11 H14B DOP A   1       26.64   23.70   59.67  0.00  0.00              
+HETATM   12 H14C DOP A   1       27.13   23.78   61.35  0.00  0.00              
+HETATM   13  C15 DOP A   1       29.77   23.42   60.88  0.00  0.00              
+HETATM   14 H15A DOP A   1       30.06   24.45   60.79  0.00  0.00              
+HETATM   15 H15B DOP A   1       30.64   22.83   60.63  0.00  0.00              
+HETATM   16 H15C DOP A   1       29.51   23.21   61.91  0.00  0.00              
+HETATM   17  C11 DOP A   1       28.02   22.84   57.42  0.00  0.00              
+HETATM   18 H11A DOP A   1       28.42   23.17   56.44  0.00  0.00              
+HETATM   19 H11B DOP A   1       28.04   21.73   57.41  0.00  0.00              
+HETATM   20    P DOP A   1       25.43   22.41   57.66  0.00  0.00              
+HETATM   21  O13 DOP A   1       24.20   23.15   57.33  0.00  0.00              
+HETATM   22  O14 DOP A   1       25.42   21.75   58.99  0.00  0.00              
+HETATM   23  O12 DOP A   1       26.69   23.38   57.59  0.00  0.00              
+HETATM   24  O11 DOP A   1       25.74   21.31   56.58  0.00  0.00              
+HETATM   25   C1 DOP A   1       24.71   20.53   55.95  0.00  0.00              
+HETATM   26   HA DOP A   1       23.76   20.56   56.52  0.00  0.00              
+HETATM   27   HB DOP A   1       25.04   19.47   55.94  0.00  0.00              
+HETATM   28   C2 DOP A   1       24.41   20.91   54.47  0.00  0.00              
+HETATM   29   HS DOP A   1       23.57   20.25   54.15  0.00  0.00              
+HETATM   30  O21 DOP A   1       25.57   20.62   53.66  0.00  0.00              
+HETATM   31  C21 DOP A   1       25.42   20.76   52.35  0.00  0.00              
+HETATM   32  O22 DOP A   1       24.45   21.22   51.79  0.00  0.00              
+HETATM   33  C22 DOP A   1       26.60   20.16   51.60  0.00  0.00              
+HETATM   34  H2R DOP A   1       26.80   19.15   52.02  0.00  0.00              
+HETATM   35  H2S DOP A   1       27.49   20.80   51.77  0.00  0.00              
+HETATM   36   C3 DOP A   1       23.92   22.39   54.31  0.00  0.00              
+HETATM   37   HX DOP A   1       23.28   22.65   55.17  0.00  0.00              
+HETATM   38   HY DOP A   1       23.27   22.42   53.41  0.00  0.00              
+HETATM   39  O31 DOP A   1       25.02   23.32   54.18  0.00  0.00              
+HETATM   40  C31 DOP A   1       24.63   24.49   53.71  0.00  0.00              
+HETATM   41  O32 DOP A   1       23.47   24.87   53.61  0.00  0.00              
+HETATM   42  C32 DOP A   1       25.85   25.28   53.26  0.00  0.00              
+HETATM   43  H2X DOP A   1       25.50   26.20   52.76  0.00  0.00              
+HETATM   44  H2Y DOP A   1       26.43   25.56   54.17  0.00  0.00              
+HETATM   45  C23 DOP A   1       26.27   20.06   50.10  0.00  0.00              
+HETATM   46  H3R DOP A   1       25.91   21.02   49.69  0.00  0.00              
+HETATM   47  H3S DOP A   1       25.36   19.42   49.96  0.00  0.00              
+HETATM   48  C24 DOP A   1       27.45   19.57   49.25  0.00  0.00              
+HETATM   49  H4R DOP A   1       27.63   18.49   49.42  0.00  0.00              
+HETATM   50  H4S DOP A   1       28.37   20.11   49.59  0.00  0.00              
+HETATM   51  C25 DOP A   1       27.28   19.84   47.75  0.00  0.00              
+HETATM   52  H5R DOP A   1       27.01   20.91   47.62  0.00  0.00              
+HETATM   53  H5S DOP A   1       26.45   19.23   47.35  0.00  0.00              
+HETATM   54  C26 DOP A   1       28.57   19.58   46.95  0.00  0.00              
+HETATM   55  H6R DOP A   1       28.92   18.55   47.15  0.00  0.00              
+HETATM   56  H6S DOP A   1       29.36   20.27   47.33  0.00  0.00              
+HETATM   57  C27 DOP A   1       28.46   19.76   45.42  0.00  0.00              
+HETATM   58  H7R DOP A   1       28.05   18.83   44.98  0.00  0.00              
+HETATM   59  H7S DOP A   1       29.48   19.87   44.99  0.00  0.00              
+HETATM   60  C28 DOP A   1       27.55   20.90   44.93  0.00  0.00              
+HETATM   61  H8R DOP A   1       26.54   20.76   45.37  0.00  0.00              
+HETATM   62  H8S DOP A   1       27.43   20.78   43.83  0.00  0.00              
+HETATM   63  C29 DOP A   1       28.08   22.26   45.28  0.00  0.00              
+HETATM   64  H9R DOP A   1       28.46   22.35   46.31  0.00  0.00              
+HETATM   65 C210 DOP A   1       28.14   23.33   44.47  0.00  0.00              
+HETATM   66 H10R DOP A   1       28.55   24.26   44.90  0.00  0.00              
+HETATM   67 C211 DOP A   1       27.69   23.45   43.03  0.00  0.00              
+HETATM   68 H11R DOP A   1       27.46   22.46   42.58  0.00  0.00              
+HETATM   69 H11S DOP A   1       28.54   23.84   42.44  0.00  0.00              
+HETATM   70 C212 DOP A   1       26.48   24.39   42.83  0.00  0.00              
+HETATM   71 H12R DOP A   1       26.51   25.19   43.60  0.00  0.00              
+HETATM   72 H12S DOP A   1       25.51   23.87   43.00  0.00  0.00              
+HETATM   73 C213 DOP A   1       26.47   25.09   41.45  0.00  0.00              
+HETATM   74 H13R DOP A   1       27.46   25.53   41.21  0.00  0.00              
+HETATM   75 H13S DOP A   1       25.75   25.94   41.52  0.00  0.00              
+HETATM   76 C214 DOP A   1       26.15   24.21   40.25  0.00  0.00              
+HETATM   77 H14R DOP A   1       25.17   23.71   40.40  0.00  0.00              
+HETATM   78 H14S DOP A   1       26.93   23.41   40.21  0.00  0.00              
+HETATM   79 C215 DOP A   1       26.16   25.01   38.94  0.00  0.00              
+HETATM   80 H15R DOP A   1       25.89   24.36   38.08  0.00  0.00              
+HETATM   81 H15S DOP A   1       27.19   25.37   38.73  0.00  0.00              
+HETATM   82 C216 DOP A   1       25.23   26.24   38.92  0.00  0.00              
+HETATM   83 H16R DOP A   1       25.15   26.60   37.87  0.00  0.00              
+HETATM   84 H16S DOP A   1       25.72   27.06   39.50  0.00  0.00              
+HETATM   85 C217 DOP A   1       23.82   26.03   39.49  0.00  0.00              
+HETATM   86 H17R DOP A   1       23.24   26.97   39.34  0.00  0.00              
+HETATM   87 H17S DOP A   1       23.89   25.88   40.59  0.00  0.00              
+HETATM   88 C218 DOP A   1       23.03   24.85   38.90  0.00  0.00              
+HETATM   89 H18R DOP A   1       22.02   24.81   39.35  0.00  0.00              
+HETATM   90 H18S DOP A   1       23.54   23.89   39.12  0.00  0.00              
+HETATM   91 H18T DOP A   1       22.94   24.95   37.80  0.00  0.00              
+HETATM   92  C33 DOP A   1       26.75   24.45   52.31  0.00  0.00              
+HETATM   93  H3X DOP A   1       27.00   23.46   52.76  0.00  0.00              
+HETATM   94  H3Y DOP A   1       27.71   24.99   52.18  0.00  0.00              
+HETATM   95  C34 DOP A   1       26.12   24.24   50.92  0.00  0.00              
+HETATM   96  H4X DOP A   1       25.84   25.24   50.51  0.00  0.00              
+HETATM   97  H4Y DOP A   1       25.18   23.64   50.99  0.00  0.00              
+HETATM   98  C35 DOP A   1       27.08   23.56   49.94  0.00  0.00              
+HETATM   99  H5X DOP A   1       27.06   22.46   50.05  0.00  0.00              
+HETATM  100  H5Y DOP A   1       28.12   23.79   50.24  0.00  0.00              
+HETATM  101  C36 DOP A   1       26.88   23.99   48.47  0.00  0.00              
+HETATM  102  H6X DOP A   1       26.82   25.10   48.38  0.00  0.00              
+HETATM  103  H6Y DOP A   1       27.79   23.67   47.92  0.00  0.00              
+HETATM  104  C37 DOP A   1       25.66   23.40   47.75  0.00  0.00              
+HETATM  105  H7X DOP A   1       25.93   23.28   46.68  0.00  0.00              
+HETATM  106  H7Y DOP A   1       25.49   22.38   48.16  0.00  0.00              
+HETATM  107  C38 DOP A   1       24.39   24.27   47.78  0.00  0.00              
+HETATM  108  H8X DOP A   1       23.99   24.30   46.74  0.00  0.00              
+HETATM  109  H8Y DOP A   1       24.67   25.31   48.03  0.00  0.00              
+HETATM  110  C39 DOP A   1       23.29   23.79   48.69  0.00  0.00              
+HETATM  111  H9X DOP A   1       23.00   24.48   49.49  0.00  0.00              
+HETATM  112 C310 DOP A   1       22.66   22.60   48.61  0.00  0.00              
+HETATM  113 H10X DOP A   1       21.87   22.37   49.34  0.00  0.00              
+HETATM  114 C311 DOP A   1       22.92   21.50   47.61  0.00  0.00              
+HETATM  115 H11X DOP A   1       22.79   20.52   48.12  0.00  0.00              
+HETATM  116 H11Y DOP A   1       23.97   21.50   47.23  0.00  0.00              
+HETATM  117 C312 DOP A   1       22.03   21.52   46.36  0.00  0.00              
+HETATM  118 H12X DOP A   1       22.19   22.46   45.79  0.00  0.00              
+HETATM  119 H12Y DOP A   1       20.97   21.53   46.69  0.00  0.00              
+HETATM  120 C313 DOP A   1       22.32   20.28   45.49  0.00  0.00              
+HETATM  121 H13X DOP A   1       22.45   19.40   46.17  0.00  0.00              
+HETATM  122 H13Y DOP A   1       21.47   20.03   44.82  0.00  0.00              
+HETATM  123 C314 DOP A   1       23.54   20.40   44.59  0.00  0.00              
+HETATM  124 H14X DOP A   1       24.43   20.66   45.20  0.00  0.00              
+HETATM  125 H14Y DOP A   1       23.70   19.40   44.14  0.00  0.00              
+HETATM  126 C315 DOP A   1       23.36   21.42   43.46  0.00  0.00              
+HETATM  127 H15X DOP A   1       23.17   22.43   43.89  0.00  0.00              
+HETATM  128 H15Y DOP A   1       22.49   21.15   42.83  0.00  0.00              
+HETATM  129 C316 DOP A   1       24.62   21.50   42.60  0.00  0.00              
+HETATM  130 H16X DOP A   1       24.48   22.28   41.82  0.00  0.00              
+HETATM  131 H16Y DOP A   1       25.45   21.83   43.27  0.00  0.00              
+HETATM  132 C317 DOP A   1       25.04   20.19   41.94  0.00  0.00              
+HETATM  133 H17X DOP A   1       25.24   19.42   42.72  0.00  0.00              
+HETATM  134 H17Y DOP A   1       24.19   19.83   41.32  0.00  0.00              
+HETATM  135 C318 DOP A   1       26.29   20.33   41.08  0.00  0.00              
+HETATM  136 H18X DOP A   1       27.18   20.58   41.69  0.00  0.00              
+HETATM  137 H18Y DOP A   1       26.50   19.39   40.53  0.00  0.00              
+HETATM  138 H18Z DOP A   1       26.14   21.15   40.34  0.00  0.00              
+CONECT    1    2
+CONECT    1    5
+CONECT    1    9
+CONECT    1   13
+CONECT    2    1
+CONECT    2    3
+CONECT    2    4
+CONECT    2   17
+CONECT    3    2
+CONECT    4    2
+CONECT    5    1
+CONECT    5    6
+CONECT    5    7
+CONECT    5    8
+CONECT    6    5
+CONECT    7    5
+CONECT    8    5
+CONECT    9    1
+CONECT    9   10
+CONECT    9   11
+CONECT    9   12
+CONECT   10    9
+CONECT   11    9
+CONECT   12    9
+CONECT   13    1
+CONECT   13   14
+CONECT   13   15
+CONECT   13   16
+CONECT   14   13
+CONECT   15   13
+CONECT   16   13
+CONECT   17    2
+CONECT   17   18
+CONECT   17   19
+CONECT   17   23
+CONECT   18   17
+CONECT   19   17
+CONECT   20   21
+CONECT   20   22
+CONECT   20   23
+CONECT   20   24
+CONECT   21   20
+CONECT   22   20
+CONECT   23   17
+CONECT   23   20
+CONECT   24   20
+CONECT   24   25
+CONECT   25   24
+CONECT   25   26
+CONECT   25   27
+CONECT   25   28
+CONECT   26   25
+CONECT   27   25
+CONECT   28   25
+CONECT   28   29
+CONECT   28   30
+CONECT   28   36
+CONECT   29   28
+CONECT   30   28
+CONECT   30   31
+CONECT   31   30
+CONECT   31   32
+CONECT   31   33
+CONECT   32   31
+CONECT   33   31
+CONECT   33   34
+CONECT   33   35
+CONECT   33   45
+CONECT   34   33
+CONECT   35   33
+CONECT   36   28
+CONECT   36   37
+CONECT   36   38
+CONECT   36   39
+CONECT   37   36
+CONECT   38   36
+CONECT   39   36
+CONECT   39   40
+CONECT   40   39
+CONECT   40   41
+CONECT   40   42
+CONECT   41   40
+CONECT   42   40
+CONECT   42   43
+CONECT   42   44
+CONECT   42   92
+CONECT   43   42
+CONECT   44   42
+CONECT   45   33
+CONECT   45   46
+CONECT   45   47
+CONECT   45   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48   45
+CONECT   48   49
+CONECT   48   50
+CONECT   48   51
+CONECT   49   48
+CONECT   50   48
+CONECT   51   48
+CONECT   51   52
+CONECT   51   53
+CONECT   51   54
+CONECT   52   51
+CONECT   53   51
+CONECT   54   51
+CONECT   54   55
+CONECT   54   56
+CONECT   54   57
+CONECT   55   54
+CONECT   56   54
+CONECT   57   54
+CONECT   57   58
+CONECT   57   59
+CONECT   57   60
+CONECT   58   57
+CONECT   59   57
+CONECT   60   57
+CONECT   60   61
+CONECT   60   62
+CONECT   60   63
+CONECT   61   60
+CONECT   62   60
+CONECT   63   60
+CONECT   63   64
+CONECT   63   65
+CONECT   64   63
+CONECT   65   63
+CONECT   65   66
+CONECT   65   67
+CONECT   66   65
+CONECT   67   65
+CONECT   67   68
+CONECT   67   69
+CONECT   67   70
+CONECT   68   67
+CONECT   69   67
+CONECT   70   67
+CONECT   70   71
+CONECT   70   72
+CONECT   70   73
+CONECT   71   70
+CONECT   72   70
+CONECT   73   70
+CONECT   73   74
+CONECT   73   75
+CONECT   73   76
+CONECT   74   73
+CONECT   75   73
+CONECT   76   73
+CONECT   76   77
+CONECT   76   78
+CONECT   76   79
+CONECT   77   76
+CONECT   78   76
+CONECT   79   76
+CONECT   79   80
+CONECT   79   81
+CONECT   79   82
+CONECT   80   79
+CONECT   81   79
+CONECT   82   79
+CONECT   82   83
+CONECT   82   84
+CONECT   82   85
+CONECT   83   82
+CONECT   84   82
+CONECT   85   82
+CONECT   85   86
+CONECT   85   87
+CONECT   85   88
+CONECT   86   85
+CONECT   87   85
+CONECT   88   85
+CONECT   88   89
+CONECT   88   90
+CONECT   88   91
+CONECT   89   88
+CONECT   90   88
+CONECT   91   88
+CONECT   92   42
+CONECT   92   93
+CONECT   92   94
+CONECT   92   95
+CONECT   93   92
+CONECT   94   92
+CONECT   95   92
+CONECT   95   96
+CONECT   95   97
+CONECT   95   98
+CONECT   96   95
+CONECT   97   95
+CONECT   98   95
+CONECT   98   99
+CONECT   98  100
+CONECT   98  101
+CONECT   99   98
+CONECT  100   98
+CONECT  101   98
+CONECT  101  102
+CONECT  101  103
+CONECT  101  104
+CONECT  102  101
+CONECT  103  101
+CONECT  104  101
+CONECT  104  105
+CONECT  104  106
+CONECT  104  107
+CONECT  105  104
+CONECT  106  104
+CONECT  107  104
+CONECT  107  108
+CONECT  107  109
+CONECT  107  110
+CONECT  108  107
+CONECT  109  107
+CONECT  110  107
+CONECT  110  111
+CONECT  110  112
+CONECT  111  110
+CONECT  112  110
+CONECT  112  113
+CONECT  112  114
+CONECT  113  112
+CONECT  114  112
+CONECT  114  115
+CONECT  114  116
+CONECT  114  117
+CONECT  115  114
+CONECT  116  114
+CONECT  117  114
+CONECT  117  118
+CONECT  117  119
+CONECT  117  120
+CONECT  118  117
+CONECT  119  117
+CONECT  120  117
+CONECT  120  121
+CONECT  120  122
+CONECT  120  123
+CONECT  121  120
+CONECT  122  120
+CONECT  123  120
+CONECT  123  124
+CONECT  123  125
+CONECT  123  126
+CONECT  124  123
+CONECT  125  123
+CONECT  126  123
+CONECT  126  127
+CONECT  126  128
+CONECT  126  129
+CONECT  127  126
+CONECT  128  126
+CONECT  129  126
+CONECT  129  130
+CONECT  129  131
+CONECT  129  132
+CONECT  130  129
+CONECT  131  129
+CONECT  132  129
+CONECT  132  133
+CONECT  132  134
+CONECT  132  135
+CONECT  133  132
+CONECT  134  132
+CONECT  135  132
+CONECT  135  136
+CONECT  135  137
+CONECT  135  138
+CONECT  136  135
+CONECT  137  135
+CONECT  138  135
