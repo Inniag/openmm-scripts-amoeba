@@ -1,0 +1,9 @@
+name: openmm-scripts-amoeba
+channels:
+  - omnia
+  - conda-forge
+  - defaults
+dependencies:
+  - mdanalysis=0.17.0
+  - openmm=7.1.1
+
