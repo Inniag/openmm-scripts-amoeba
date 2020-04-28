@@ -2,12 +2,12 @@
 
 # OpenMM Scripts for AMOEBA Force Field MD Simulations
 
-This repository provides scripts for running GPU-accelerated molecular dynamics simulations employing the polarisable AMOEBA force field. The code is geared towards the specific use case of simulating ion channels, but should also be useful for other membrane proteins as well as soluble biomolecules. It makes use of the powerful [OpenMM](https://github.com/openmm/openmm) and [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) libraries.
+This repository provides scripts for running GPU-accelerated molecular dynamics simulations employing the polarisable [AMOEBA](https://doi.org/10.1021/jp910674d) force field. The code is geared towards the specific use case of simulating ion channels, but should also be useful for other membrane proteins as well as soluble biomolecules. It makes use of the powerful [OpenMM](https://github.com/openmm/openmm) and [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) libraries.
 
 Some interesting features of this code that extend the basic OpenMM functionality include:
 
 * guessing bonds in nonstandard residues which would overflow the CONECT record index in PDB files, a prerequisite for lipid bilayer simulation
-* converting systems equilibrated in Gromacs to valid OpenMM input and converting OpenMM DCD trajectories to XTC format enabling further analysis with Gromacs' tools
+* converting systems equilibrated in Gromacs to valid OpenMM input and converting OpenMM DCD trajectories to XTC format enabling further analysis with [Gromacs](https://gitlab.com/gromacs/gromacs)' tools
 * lipid parameters for the AMOEBA force field and a script for converting force field parameter files in Tinker's PRM format to the XML format used by OpenMM
 * performing umbrella sampling simulations of ions moving along the permeation pathway of an ion channel with output compatible with the Grossfield lab's [WHAM](http://membrane.urmc.rochester.edu/?page_id=126) tool
 * job submission scripts for running simulations on [SLURM](https://slurm.schedmd.com/documentation.html) clusters and support for restarting and extending simulations that exceed queuing system time limits
