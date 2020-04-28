@@ -9,7 +9,7 @@ to productive sampling, a user defined number of energy minimisation steps will
 be carried out. If the input system has already been equilibrated, not many
 steps will be needed. Minimisation will not be repeated if the script is
 started from a log-file as input (in this case, the simulation will simply be
- continued from the checkpoint file specified in the log-file).
+continued from the checkpoint file specified in the log-file).
 """
 
 import argparse
