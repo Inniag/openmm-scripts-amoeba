@@ -341,7 +341,7 @@ if __name__ == "__main__":
         "-log",
         nargs="?",
         const="system_openmm.pdb",
-        help="Name of logfile from which to cintinue simulation.")
+        help="Name of logfile from which to continue simulation.")
     group.add_argument(
         "-pdb",
         nargs="?",
